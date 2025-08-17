@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br>📚 Machine Learning<br><br>🤝 I’m looking to collaborate on:  <br>🧑‍💻 Web development projects, especially MERN stack-based tools  <br><br>🌱 I’m currently learning:  <br>💻 MERN Stack | 🎯 LeetCode | 📃Machine Learning<br><br>⚡ Fun fact:  <br>I once built a Clash of Clans API mini-project just to learn JS API integration!<br>
+🤝 I’m looking to collaborate on:  <br>🧑‍💻 Web development projects, especially MERN stack-based tools  <br><br>🌱 I’m currently learning:  <br>💻 MERN Stack | 🎯 LeetCode <br><br>⚡ Fun fact:  <br>I once built a Clash of Clans API mini-project just to learn JS API integration!<br>
 
 
 ## 🌐 Socials:
